@@ -27,7 +27,7 @@ $ sudo apt-get install git
 Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/BennettDixon/monty.git
+$ git clone https://github.com/Natzsmart/monty.git
 ```
 Compile with the following:
 
@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Isaac Baccah
+* **Iniobong Effiong
 
 
 ## :mag: License
